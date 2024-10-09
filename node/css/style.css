@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.botao{
+    background-color: white;
+    color: green;
+}
+
+
+.texto__escondido{
+    border: solid 1px green;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+    font-size: 100px;
+    color: green;
+    display: none;
+}
